@@ -35,4 +35,4 @@ node_modules
 uploads
 public/images/anuncios
 
-.env
+# .env
